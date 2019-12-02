@@ -14,7 +14,11 @@ module.exports = {
   env: {
     browser: true
   },
+  globals: {
+    'Twitter': false
+  },
   rules: {
+    'no-console': 0
   },
   overrides: [
     // node files

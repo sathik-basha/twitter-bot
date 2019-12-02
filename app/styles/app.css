@@ -1,0 +1,13 @@
+.home-footer {
+  width: 100%;
+  text-align: right;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  padding-top: 100px;
+  background-color: #ccc;
+}
+.home-footer-text {
+  padding-bottom: 5px;
+  padding-right: 10px;
+}
